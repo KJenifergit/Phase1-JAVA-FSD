@@ -25,8 +25,8 @@
 </head>
 <body>
 	<div class="Header">
-		<h1>FlyAway Welcomes you to the World....!</h1>
-		<h2 >This is the Best Airlines for all!!!!</h2><br>
+		<h1>FlyAway Airlines Welcomes you ..</h1>
+		<h2 >Certified as the Best Airlines </h2><br>
 	</div>
 	
 	<div class="One">

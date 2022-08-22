@@ -7,7 +7,7 @@
     String connectionUrl = "jdbc:mysql://localhost:3306/";
     String dbName = "phase2db";
     String userId = "root";
-    String password = "N.root";
+    String password = "root";
     String query = Search.getQuery();
     try {
         Class.forName(driverName);
@@ -47,13 +47,13 @@
 	}
 </style>
 <meta charset="ISO-8859-1">
-<title>FlyAway Welcomes you to the World....!</title>
+<title>FlyAway Airlines Welcomes you ..</title>
 </head>
 <body>
 
 
 
-    <h1 ><span><strong>FlyAway Welcomes you....!</strong></span></h1>
+    <h1 ><span><strong>FlyAway Airlines Welcomes you ..</strong></span></h1>
     <h2><span><strong>
         You Searched flights from <b> <%= Search.source%> </b>  to <b><%=Search.destination%></b> <br>
         Date of travel : <b><%=Search.date%> (<%=Search.day%>)</b>  <br>
