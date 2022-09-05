@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.authentication.UserAuthenticationApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 16.601 s <<< FAILURE! - in com.example.authentication.UserAuthenticationApplicationTests
+countUsers  Time elapsed: 0.035 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <3> but was: <6>
+	at com.example.authentication.UserAuthenticationApplicationTests.countUsers(UserAuthenticationApplicationTests.java:54)
+

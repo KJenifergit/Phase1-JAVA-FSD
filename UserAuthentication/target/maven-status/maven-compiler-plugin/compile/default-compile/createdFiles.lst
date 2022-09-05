@@ -1,0 +1,5 @@
+com\example\authentication\controller\UserController.class
+com\example\authentication\UserAuthenticationApplication.class
+com\example\authentication\service\UserService.class
+com\example\authentication\repository\UserRepo.class
+com\example\authentication\entity\User.class
